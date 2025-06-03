@@ -252,6 +252,37 @@ body {
     gap: 20px;
 }
 
+.quatp
+{
+    font-family: 'Arimo Hebrew Subset', sans-serif;
+    margin-top: 20%;
+    margin-left: 4%;
+}
+
+.quatp h1
+{
+    font-size: 1rem;
+    font-weight: 10;
+}
+
+.quatp h2
+{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.quatp h3
+{
+    font-size: 1rem;
+    font-weight: 10;
+}
+
+
+
+
+
+
+
 
 
 
