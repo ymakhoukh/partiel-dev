@@ -347,6 +347,163 @@ body {
 
 
 
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  .CAC h1 {
+    font-size: 0.7rem;
+    padding: 0 15px;
+    text-align: center;
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  .PG, .PD {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 0;
+  }
+
+  .plogo {
+    width: 70px;
+    height: auto;
+  }
+
+  .IPD {
+    width: 16px;
+    height: 16px;
+  }
+
+  .END, .HEARTDIV, .BAGD {
+    gap: 4px;
+  }
+
+  .PTAJMIL {
+    flex-direction: column;
+    height: auto;
+    padding: 20px 10px;
+  }
+
+  .EP {
+    position: static;
+    transform: none;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .EP h3, .EP h4, .EP h5 {
+    font-size: 1rem;
+    color: white;
+  }
+
+  .EP h4 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .EP h6 {
+    font-size: 0.9rem;
+    gap: 6px;
+  }
+
+  .btn {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .AR {
+    width: 20px;
+    height: 20px;
+  }
+
+  .troip {
+    flex-direction: column;
+    width: 90%;
+    margin: 30px auto;
+    gap: 20px;
+    height: auto;
+  }
+
+  .img2 {
+    width: 100%;
+    height: auto;
+  }
+
+  .PDT {
+    text-align: center;
+  }
+
+  .PDT h2, .PDT h3 {
+    width: 100%;
+  }
+
+  .quatp {
+    text-align: center;
+    padding: 0 15px;
+    margin-top: 15%;
+  }
+
+  .cinqp {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 50px;
+  }
+
+  .boxproduit {
+    width: 90%;
+    height: auto;
+    border: 1px solid #eee;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+  }
+
+  .imgbox, .imgbox2 {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .imgbox2 {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+
+  .boxproduit h1, 
+  .boxproduit h2, 
+  .boxproduit h3, 
+  .boxproduit h4, 
+  .boxproduit h5 {
+    text-align: center;
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+
+  .btn2 {
+    padding: 8px 20px;
+    font-size: 0.9rem;
+    gap: 10px;
+  }
+}
+
+
+
+
 
 
 
