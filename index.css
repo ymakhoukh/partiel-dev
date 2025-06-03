@@ -277,6 +277,77 @@ body {
     font-weight: 10;
 }
 
+.boxproduit
+{
+    width: 331.75px;
+    height: 484px;
+    margin-top: 80px;
+}
+
+.boxproduit h1
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 10;
+    justify-content: end;
+    margin-bottom: 0;
+}
+
+.imgbox
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.boxproduit h2
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 10;
+    justify-content: center;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.boxproduit h3
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 10;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.boxproduit h4
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 10;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.boxproduit h5
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 10;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.cinqp
+{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+
+
+
 
 
 
